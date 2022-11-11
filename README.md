@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niklas-W2003
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java and C
+- 🌱 I’m currently learning Python and <a href="https://tglas.github.io/tscript/">TScript by Tobias Glasmachers</a>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <a href="https://www.linkedin.com/in/niklas-warkentin-4112641a0/">LinkdIn</a>
 
